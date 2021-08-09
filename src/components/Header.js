@@ -1,5 +1,5 @@
 import React from 'react'
-import App from '../'
+// import App from '../'
 
 export default class Header extends React.Component{
 
